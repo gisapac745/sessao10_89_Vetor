@@ -20,6 +20,7 @@ public class Program {
 		
 		// corpo do programa
 		System.out.println(">>>>>>> PROGRAMA TESTE DE VETOR NO GIT HUB");
+		System.out.println(">>>>>>> NOVO TESTE GIT HUB");
 		System.out.println();
 		
 		System.out.println("Entre com o número de elementos que o vetor terá:");

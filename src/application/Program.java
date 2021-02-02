@@ -19,6 +19,9 @@ public class Program {
 		Scanner sc = new Scanner(System.in);
 		
 		// corpo do programa
+		System.out.println(">>>>>>> PROGRAMA TESTE DE VETOR NO GIT HUB");
+		System.out.println();
+		
 		System.out.println("Entre com o número de elementos que o vetor terá:");
 		numElementos = sc.nextInt();
 		
